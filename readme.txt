@@ -22,4 +22,11 @@ addaddadd
 aaaaaaa
 
 
+aaaaissue
+<<<<<<< HEAD
 aaaa=========!!!!issue
+=======
+aaaaissue
+
+dev!
+>>>>>>> dev
